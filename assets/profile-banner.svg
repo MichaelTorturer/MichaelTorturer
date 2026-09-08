@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="360" viewBox="0 0 1200 360" role="img" aria-labelledby="title desc">
+  <title id="title">Mikhail Turchin — Product Builder</title>
+  <desc id="desc">Minimal dark profile banner for GitHub</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#0b1220"/>
+      <stop offset="0.55" stop-color="#0f172a"/>
+      <stop offset="1" stop-color="#111827"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#60a5fa"/>
+      <stop offset="1" stop-color="#22d3ee"/>
+    </linearGradient>
+    <radialGradient id="glow" cx="85%" cy="20%" r="70%">
+      <stop offset="0" stop-color="#38bdf8" stop-opacity="0.22"/>
+      <stop offset="1" stop-color="#38bdf8" stop-opacity="0"/>
+    </radialGradient>
+  </defs>
+  <rect width="1200" height="360" rx="28" fill="url(#bg)"/>
+  <rect width="1200" height="360" rx="28" fill="url(#glow)"/>
+  <circle cx="1030" cy="80" r="150" fill="none" stroke="#38bdf8" stroke-opacity="0.12" stroke-width="2"/>
+  <circle cx="1030" cy="80" r="105" fill="none" stroke="#60a5fa" stroke-opacity="0.12" stroke-width="2"/>
+  <path d="M880 250 C950 180, 1040 190, 1160 110" fill="none" stroke="url(#accent)" stroke-opacity="0.35" stroke-width="3"/>
+  <rect x="72" y="72" width="74" height="8" rx="4" fill="url(#accent)"/>
+  <text x="72" y="145" fill="#f8fafc" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="48" font-weight="700">Mikhail Turchin</text>
+  <text x="72" y="195" fill="#cbd5e1" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="24" font-weight="500">Product Builder · AI-assisted Development · UX · Automation</text>
+  <text x="72" y="252" fill="#94a3b8" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="20">Ideas → product logic → experience → implementation → iteration</text>
+  <g transform="translate(72,296)">
+    <circle cx="8" cy="8" r="8" fill="#22c55e"/>
+    <text x="28" y="15" fill="#cbd5e1" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="17">Building practical digital products with modern tools and AI</text>
+  </g>
+</svg>
