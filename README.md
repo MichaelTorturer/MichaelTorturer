@@ -6,7 +6,7 @@
 
 I build practical digital products by combining **product thinking, UX, automation and AI-assisted development**.
 
-I’m less interested in writing code for its own sake and more interested in the full path from an idea to a working product: defining how it should behave, designing the user flow, finding weak points, testing real scenarios and iterating until the experience feels right.
+I focus on the full path from an idea to a working product: defining how it should behave, designing the user flow, finding weak points, testing real scenarios and iterating until the experience feels right.
 
 AI is a core part of my workflow for research, prototyping, implementation, debugging, testing and documentation — with human product decisions staying at the center.
 
@@ -43,7 +43,7 @@ AI is a core part of my workflow for research, prototyping, implementation, debu
 
 ## Other product work
 
-I also work on **private digital products** involving Telegram Mini Apps, subscription flows, payments, product UX and backend infrastructure. Some projects stay intentionally private while they are being developed.
+I also work on **private digital products** involving web applications, automation, integrations, UX and product infrastructure. Some projects remain intentionally private.
 
 ## How I work
 
